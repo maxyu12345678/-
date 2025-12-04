@@ -1,0 +1,5 @@
+{
+  "name": "Aromatherapy Presentation Outline Generator",
+  "description": "An application that generates a presentation outline in Traditional Chinese about aromatherapy and acupressure for nurses, using the Gemini API.",
+  "requestFramePermissions": []
+}
